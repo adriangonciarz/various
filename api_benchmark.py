@@ -8,7 +8,8 @@ import aiohttp
 from faker import Faker
 
 """
-An idea of how to benchmark API processing ability using asynchronous HTTP client. The idea is to measure how much data (in kilobytes) can API process within a given period of time.  
+An idea of how to benchmark API processing ability using asynchronous HTTP client. 
+The idea is to measure how much data (in kilobytes) can API process within a given period of time.  
 Example generated output:
 
 INFO:root:total size sent: 22.01 kilobytes
